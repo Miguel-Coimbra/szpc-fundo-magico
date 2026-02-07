@@ -1,5 +1,9 @@
 # ✨ Fundo Mágico
 
+<p align="center">
+  <img src="./src/images/preview.png" alt="Tela de seleção de personagens dos X-Men" width="650">
+</p>
+
 Uma aplicação web interativa que permite ao usuário **descrever um fundo mágico em texto** e receber, em tempo real, **código HTML e CSS gerados dinamicamente**, exibindo o resultado em uma área de preview com animação aplicada ao fundo da página.
 
 Este projeto foi desenvolvido como parte da **Semana do Zero ao Programador Contratado (SZPC)**, com foco em frontend e integração com APIs.
